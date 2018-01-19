@@ -1,0 +1,68 @@
+Generating the state space took 0:00:00.010479
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx m1 = 40, n2 = 4 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Using the precise chain
+Using the LGMRES approximation method
+Using the reduced state space
+The state space has 726 states
+Running 5 simulations for rho = [2.0, 10.0, 50.0]
+mu_1 = 1, mu_2 = 1
+
+rho,R:SS_t_su,R:SS_t_c,LM:SS_t_su,LM:SS_t_c,total_t
+2.0,0:00:00.012394,0:00:00.000998,0:00:00.011131,0:00:00.000955,0:00:00.025550
+10.0,0:00:00.012858,0:00:00.000980,0:00:00.011970,0:00:00.000983,0:00:00.026862
+50.0,0:00:00.014049,0:00:00.000951,0:00:00.012629,0:00:00.000926,0:00:00.028626
+Generating the state space took 0:00:00.278276
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx m1 = 80, n2 = 4 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Using the precise chain
+Using the LGMRES approximation method
+Using the reduced state space
+The state space has 4851 states
+Running 5 simulations for rho = [8.0, 28.0, 100.0]
+mu_1 = 1, mu_2 = 1
+
+rho,R:SS_t_su,R:SS_t_c,LM:SS_t_su,LM:SS_t_c,total_t
+8.0,0:00:00.157713,0:00:00.017043,0:00:00.140923,0:00:00.022154,0:00:00.338133
+28.0,0:00:00.163069,0:00:00.010273,0:00:00.137552,0:00:00.006337,0:00:00.317523
+100.0,0:00:00.152429,0:00:00.003782,0:00:00.116324,0:00:00.002951,0:00:00.275731
+Generating the state space took 0:00:02.440510
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx m1 = 120, n2 = 4 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Using the precise chain
+Using the LGMRES approximation method
+Using the reduced state space
+The state space has 15376 states
+Running 5 simulations for rho = [16.0, 50.0, 150.0]
+mu_1 = 1, mu_2 = 1
+
+rho,R:SS_t_su,R:SS_t_c,LM:SS_t_su,LM:SS_t_c,total_t
+16.0,0:00:00.955887,0:00:00.139632,0:00:00.911647,0:00:00.064829,0:00:02.072608
+50.0,0:00:00.910755,0:00:00.059273,0:00:00.755464,0:00:00.021068,0:00:01.747143
+150.0,0:00:01.002439,0:00:00.013836,0:00:00.473577,0:00:00.008751,0:00:01.499163
+Generating the state space took 0:00:12.091821
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx m1 = 160, n2 = 4 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Using the precise chain
+Using the LGMRES approximation method
+Using the reduced state space
+The state space has 35301 states
+Running 5 simulations for rho = [32.0, 80.0, 200.0]
+mu_1 = 1, mu_2 = 1
+
+rho,R:SS_t_su,R:SS_t_c,LM:SS_t_su,LM:SS_t_c,total_t
+32.0,0:00:03.130665,0:00:00.643204,0:00:03.582014,0:00:00.290471,0:00:07.647092
+80.0,0:00:04.274198,0:00:00.087497,0:00:02.626133,0:00:00.045738,0:00:07.034350
+200.0,0:00:03.359594,0:00:00.034051,0:00:01.222204,0:00:00.020022,0:00:04.636559
